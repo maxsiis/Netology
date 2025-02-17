@@ -25,5 +25,5 @@ function solveEquation(a, b, c) {
 }
 
 console.log(solveEquation(1, -3, 2));
-console.log(solveEquation(4, 5, 1));
+console.log(solveEquation(1, 2, 1));
 console.log(solveEquation(2, 2, 2));
